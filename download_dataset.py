@@ -1,5 +1,4 @@
 """
-Dataset and pre-trained model downloader.
 
 Usage:
     python download_dataset.py                  # FER2013 via Kaggle API

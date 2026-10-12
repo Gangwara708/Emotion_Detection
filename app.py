@@ -1,5 +1,4 @@
 """
-Real-time Emotion, Age, and Gender Detection Application.
 
 Modes:
   webcam  — live camera feed (default)
